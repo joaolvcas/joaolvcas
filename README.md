@@ -4,7 +4,7 @@ Hello! Welcome to my GitHub Profile 👋
 
 <ul>
 	<li>😍 I'm a Software Developer.</li>
-		<li>📚 I have experience as an English Instructor.</li>
+		<li>📚 I have experience as an coach and front-end developer.</li>
 	<li>🏡 I currently live in Brazil.</li>
 	</ul>
 
